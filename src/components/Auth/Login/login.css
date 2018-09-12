@@ -1,0 +1,58 @@
+.usernameField {
+	position: relative;
+	left: 10px;
+	width: 500px;
+	border: 1px solid #979797;
+	border-radius: 15px;
+}
+
+.username {
+	position: relative;
+	left: 125px;
+}
+
+label {
+	font-family: AppleSDGothicNeo-Light;
+	font-size: 36px;
+	font-weight: normal;
+	color: #040404;
+	display: flex;
+	flex-direction: column;
+}
+
+.password {
+	position: relative;
+	left: 125px;
+}
+
+.passwordField {
+	position: relative;
+	left: 10px;
+	width: 500px;
+	border: 1px solid #979797;
+	border-radius: 15px;
+}
+
+.loginButton {
+	position: relative;
+	top: 50px;
+	left: 100px;
+	width: 600px;
+	height: 88px;
+	background: #9ADAE1;
+	font-family: AppleSDGothicNeo-Light;
+	font-size: 36px;
+	color: #040404;
+}
+
+.loginError {
+	position: relative;
+	top: 80px;
+	left: 100px;
+	color: #FF0000;
+}
+
+.loginForm {
+	position: relative;
+	top: 20px;
+}

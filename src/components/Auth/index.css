@@ -1,0 +1,27 @@
+.authContainer {
+	width: 800px;           /* Set this to your convenience */
+    height: 700px;          /* Set this to your convenience */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -350px;     /* Half of height */
+    margin-left: -400px;     /* Half of width */
+    padding-left: 0;
+    padding-right: 0;
+	border: 1px solid #B5B4B4;
+}
+
+.authNavbar {
+	width: 800px;
+	display: flex;
+	flex-direction: row;
+}
+
+.authNavItem {
+	/* Login: */
+	font-family: AppleSDGothicNeo-Light;
+	font-size: 36px;
+	color: #040404;
+	flex-grow: 1;
+	text-align: center;
+}

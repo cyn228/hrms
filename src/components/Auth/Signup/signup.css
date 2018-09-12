@@ -1,0 +1,31 @@
+.signupForm {
+	position: relative;
+	top: 15px;
+}
+
+.signupError {
+	position: relative;
+	left: 130px;
+	top: -85px;
+	font-size: 24px;
+	color: #FF0000;
+}
+
+.confirmPassword {
+	position: relative;
+	left: 125px;
+}
+
+.radioGroup {
+	position: relative;
+	left: 100px;
+	display: flex;
+	flex-direction: row;
+}
+
+.radioBtn {
+	top: 10px;
+	display: flex;
+	flex-direction: row;
+	margin: 10px;
+}

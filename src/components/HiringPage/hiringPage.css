@@ -1,0 +1,46 @@
+.hiringDetail {
+  position: relative;
+  left: 0px;
+  right: 0px;
+}
+
+.back {
+  position: relative;
+  top: 15px;
+  left: 5px;
+  background-color: #337AB7;
+  color: white;
+  width: 40px;
+  -webkit-transition-duration: 0.4s;
+}
+
+.apply {
+  position: relative;
+  top: 15px;
+  left: 915px;
+  background-color: #337AB7;
+  color: white;
+  -webkit-transition-duration: 0.4s;
+  width: 80px;
+}
+
+.contact {
+  position: relative;
+  top: 15px;
+  left: 900px;
+  background-color: #337AB7;
+  color: white;
+  width: 80px;
+  -webkit-transition-duration: 0.4s;
+}
+
+.hiringTitle {
+  position: relative;
+  top: 25px;
+  text-align: center;
+}
+
+.hiringText {
+  height: 800px;
+  background-color: #FFFFFF;
+}

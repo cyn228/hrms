@@ -1,0 +1,52 @@
+.hiringTable {
+  width: 100%;
+}
+
+.hiringTable td {
+  border: 1px solid #979797;
+  padding-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 15px;
+  color: #4A4A4A;
+}
+.hiringTable th {
+  border: 1px solid #979797;
+  padding-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 15px;
+  color: #4A4A4A;
+  background-color: #C7E5FF;
+}
+.hiringTable :not(thead) tr:hover {
+  background-color: #CDCCCC;
+}
+.hiringPage {
+  width: 100%;
+}
+
+.hiringBar {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  top: 4px;
+  left: 0px;
+}
+
+.hiringPage .container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.hiringPage .btbar {
+  position: relative;
+  top: 4px;
+  left: 15px;
+}
+
+.Search {
+  position: relative;
+  top: 4px;
+  left: 580px;
+}

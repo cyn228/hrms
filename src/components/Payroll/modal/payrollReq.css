@@ -1,0 +1,32 @@
+.payrollLabel {
+	display: flex;
+	flex-direction: row;
+	margin: 10px;
+	font-size: 19px;
+}
+
+.deptDropdown {
+	position: relative;
+	left: 10px;
+	top: -3px;
+}
+
+.payrollInput {
+	position: relative;
+	left: 3px;
+	height: 80%;
+}
+
+.dateContainer {
+	display: flex;
+	flex-direction: row;
+}
+
+.payrollSubmitBtnContainer {
+  position: relative;
+  top: 0px;
+  left: 10px;
+/*  background-color: #337AB7;*/
+  width: 80px;
+  -webkit-transition-duration: 0.4s;
+}

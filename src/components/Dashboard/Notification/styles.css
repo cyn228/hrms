@@ -1,0 +1,37 @@
+.notification {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 480px;
+  height: 320px;
+  background: white;
+  border: #337ab7 1px solid;
+  border-radius: 5px 5px 0 0;
+  z-index: 999;
+}
+
+.notification-content-container {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.notification-content .row {
+  padding: 5px 0;
+}
+
+.notification-content .col-md-4 {
+  font-size: 1.3em;
+  font-weight: 600;
+}
+
+.notification-content .col-md-8 {
+  font-size: 1.1em;
+  position: relative;
+  bottom: -3px;
+}
+
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
